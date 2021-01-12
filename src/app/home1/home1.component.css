@@ -1,0 +1,11 @@
+div.abc {
+    padding: 60px;
+    padding-right: 45px;
+    box-sizing: border-box;
+ }
+ div.one {
+    padding: 40px;
+}
+footer.fcolor{
+    background-color: rgb(224, 243, 240);
+}
