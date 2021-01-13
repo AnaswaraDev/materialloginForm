@@ -1,11 +1,26 @@
+div.two {
+  
+    box-sizing: border-box; 
+    
+ }
+ 
+footer.fcolor{
+    background-color: rgb(224, 243, 240);
+}
 div.abc {
     padding: 60px;
     padding-left: 285px;
     box-sizing: border-box;
- }
- div.one {
+   }
+   div.one {
     padding: 40px;
+    padding-left: 1px;
+    text-align: center;
 }
-footer.fcolor{
-    background-color: rgb(224, 243, 240);
-}
+
+
+div.abc {
+    padding: 30px;
+    
+    box-sizing: border-box;
+ }

@@ -1,8 +1,13 @@
 div.one {
-    text-align: center;
-    padding: 70px;
+    padding: 40px;
+    box-sizing: border-box;
     
 }
+
+
 footer.fcolor{
     background-color: rgb(224, 243, 240);
+}
+div.col-md-5{
+    padding-left: 50px;
 }
